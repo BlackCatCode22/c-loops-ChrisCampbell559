@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1692644519 source:c:\users\be129\downloads\strings and loops\strings.cpp
+	<iostream>
+	<string>
+
